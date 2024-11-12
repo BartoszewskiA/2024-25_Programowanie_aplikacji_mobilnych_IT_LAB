@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mushroom atlas</string>
+    <string name="title">Mushroom atlas</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+    <string-array name="names">
+        <item>Amanita muscaria</item>
+        <item>Boletus edulis</item>
+        <item>Suillus luteus</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Amanita muscaria, commonly known as the fly agaric or fly amanita,[5] is a basidiomycete of the genus Amanita. Native throughout the temperate and boreal regions of the Northern</item>
+        <item>Boletus edulis (English: cep, penny bun, porcino or porcini) is a basidiomycete fungus, and the type species of the genus Boletus. Widely distributed in the Northern Hemisphere across Europe, Asia, and North America, it does not occur naturally in the Southern Hemisphere, although it has been introduced to southern Africa, Australia, New Zealand, and Brazil. </item>
+        <item>Suillus luteus is a bolete fungus, and the type species of the genus Suillus. A common fungus native all across Eurasia from Ireland to Korea, it has been introduced widely elsewhere, including North and South America, southern Africa, Australia and New Zealand.</item>
+    </string-array>
+</resources>

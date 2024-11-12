@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Atlas grzybów</string>
+    <string name="title">Atlas Grzybów</string>
+    <string name="next">Następny</string>
+    <string name="back">Poprzedni</string>
+
+    <string-array name="names">
+        <item>Muchomor</item>
+        <item>Borowik szlachetny</item>
+        <item>Maślak</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Prawdopodobnie najbardziej charakterystyczny gatunek muchomora. Jest dużym, cętkowanym zwykle czerwonym grzybem i jest jednym z najbardziej rozpoznawalnych i szeroko spotykanych w kulturze popularnej, inspirował twórców np. gier z serii Mario (po zjedzeniu muchomora Mario stawał się większy) oraz domy Smerfów z komiksów i kreskówek.</item>
+        <item>Aromatyczny grzyb jadalny o szerokich zastosowaniach w kuchniach europejskich. Nadaje się do bezpośredniego spożycia, marynowania, suszenia i do wszelkich innych rodzajów przerobu. Jest wykorzystywany w przemyśle spożywczym.</item>
+        <item>Początkowo twardy, potem miękki. Ma biało-żółtawy kolor i tylko w dole trzonu jest lekko brązowy. Smak i zapach przyjemny</item>
+    </string-array>
+</resources>
